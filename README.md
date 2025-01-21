@@ -13,8 +13,11 @@ Real-Time Interaction: The app provides real-time responses with a smooth user e
 Technologies Used :-
 
 Backend: Flask (Python)
+
 Database: MongoDB (via Flask-PyMongo)
+
 Frontend: HTML, CSS, JavaScript (Fetch API)
+
 AI: OpenAI GPT-4 API
 
 
